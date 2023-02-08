@@ -17,6 +17,9 @@ A retired software engineer who familiar with many languages, but not fluent in 
 <img src="https://skillicons.dev/icons?i=discord,figma,firebase,gcp,git,github,idea,illustrator,instagram,kafka,kubernetes,linkedin,materialui,neovim,postman,vim,vscode&theme=dark&&perline=5" alt="Skills"/>
 
 
+## Github Summary
+
+<img src="https://github-profile-trophy.vercel.app/?username=dddrop&theme=onedark" alt="Github Summary"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dddrop&theme=dracula" />
@@ -26,6 +29,6 @@ A retired software engineer who familiar with many languages, but not fluent in 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dddrop&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dddrop&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)  
+[
    
   
