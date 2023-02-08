@@ -1,7 +1,21 @@
 A retired software engineer who familiar with many languages, but not fluent in any of them.
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=atom,c,cpp,css,dart,discord,figma,firebase,flutter,gcp,git,github,golang,graphql,html,idea,illustrator,instagram,javascript,kafka,kubernetes,latex,linkedin,materialui,mongodb,mysql,neovim,nextjs,nodejs,postman,python,raspberrypi,react,reactivex,redis,regex,rust,svg,sass,swift,tailwindcss,vim,vscode&theme=dark&&perline=8" alt="Skills"/>
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,css,dart,golang,graphql,html,javascript,python,regex,rust,sass,svg,swift&theme=dark&&perline=5" alt="Skills"/>
+
+### Frameworks
+<img src="https://skillicons.dev/icons?i=flutter,latex,nextjs,nodejs,react,reactivex,tailwindcss&theme=dark&&perline=5" alt="Skills"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark&&perline=5" alt="Skills"/>
+
+### Hardwares
+<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark&&perline=5" alt="Skills"/>
+
+### Others
+<img src="https://skillicons.dev/icons?i=discord,figma,firebase,gcp,git,github,idea,illustrator,instagram,kafka,kubernetes,linkedin,materialui,neovim,postman,vim,vscode&theme=dark&&perline=5" alt="Skills"/>
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
