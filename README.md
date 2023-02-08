@@ -20,15 +20,5 @@ A retired software engineer who familiar with many languages, but not fluent in 
 ## Github Summary
 
 <img src="https://github-profile-trophy.vercel.app/?username=dddrop&theme=nord&margin-w=5" alt="Github Summary"/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dddrop&theme=dracula" />
-</a>  
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dddrop&count_private=true&show_icons=true&theme=dracula" />
-</a>
-
-[
-   
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dddrop&theme=nord" />
+<img src="https://github-readme-stats.vercel.app/api?username=dddrop&count_private=true&show_icons=true&theme=nord" />
